@@ -3,8 +3,9 @@ body{
 justify-content: center;
 flex-direction: column; */
 }
-
-
+.homes{
+background-image: url(suit-trends.jpg);
+}
 
 .icon-hover:hover {
     border-color: #3b71ca !important;
